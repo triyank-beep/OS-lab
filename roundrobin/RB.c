@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Name : UPPALURI BALAJI REDDY\nUSN : 1BF24CS323\n\n");
+    printf("Name : Triyank Agarwal\nUSN : 1BF24CS321\n\n");
     int n, tq;
     int at[100], bt[100], rt[100];
     int wt[100], tat[100], ct[100];
