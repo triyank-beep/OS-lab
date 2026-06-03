@@ -5,7 +5,7 @@ int main()
     int allocation[10][10], max[10][10], need[10][10];
     int available[10], finish[10], safeSequence[10];
     int i, j, k, p, r, count = 0;
-    printf("1BF24CS328 \n");
+    printf("1BF24CS321 \n");
     printf("Enter number of processes: ");
     scanf("%d", &p);
 
